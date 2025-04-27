@@ -2516,5 +2516,12 @@
   "repo": "aidanastridge/Publisher",
   "screenshot": "src/thumbnail.png",
   "modes": ["dark", "light"]
+  },
+  {
+  "name": "Proxima Focus",
+  "author": "nthpaul",
+  "repo": "nthpaul/proxima-focus",
+  "screenshot": "light-example.png",
+  "modes": ["dark", "light"]
   }
 ]
